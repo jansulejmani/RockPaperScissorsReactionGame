@@ -10,5 +10,5 @@ Explanation:
 - Scissors beat Paper
 
 Demonstration Video:
-<a href="https://jansulejmani.github.io">Portfolio</a>
+<a href="https://jansulejmani.github.io" target="_blank">Portfolio</a>
 
